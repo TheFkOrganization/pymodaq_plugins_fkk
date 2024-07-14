@@ -1,9 +1,9 @@
 ## To modify by developer(s) of the plugin
 
 [plugin-info]
-SHORT_PLUGIN_NAME = 'fk'
+SHORT_PLUGIN_NAME = 'fkk'
 
-package-url = 'https://github.com/TheFkOrganization/pymodaq_plugins_fk'
+package-url = 'https://github.com/TheFkOrganization/pymodaq_plugins_fkk'
 description = 'Fake plugin to test PyPI'
 
 author = 'David Bresteau'
